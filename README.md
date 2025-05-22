@@ -3,10 +3,10 @@
 A Chrome extension designed to extract and export contacts from WhatsApp group chats with ease.
 
 ## Download
-Get the latest version from the [Releases page](https://github.com/YourUsername/whatsapp-group-extractor-build/releases).
+Get the latest version from the [Releases page]([https://github.com/YourUsername/whatsapp-group-extractor-build/releases](https://github.com/sezanX/whatsapp-group-contacts-extractor/releases/tag/whatsapp-group-extractor-v1.0.0)).
 
 ## Installation
-1. Download the `.crx` file from the Releases section.
+1. Download the `.crx` file from the [Releases section.](https://github.com/sezanX/whatsapp-group-contacts-extractor/releases/download/whatsapp-group-extractor-v1.0.0/WhatsApp.Group.Contact.Extractor.crx)
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable "<b><i>Developer mode</i></b>" in the top right corner.
 4. <b><i>Drag and drop the</i></b> `.crx` file into the Chrome extensions page.
