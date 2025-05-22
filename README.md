@@ -28,8 +28,8 @@ Get the latest version from the [Releases page](https://github.com/sezanX/whatsa
 This extension is provided for personal use only under the following terms:
 - You may install and use the extension as distributed.
 - Modification, redistribution, or commercial use is prohibited without explicit written permission from the author.
-- All rights reserved by [Your Name].
-For inquiries or permission requests, contact [Your Email].
+- All rights reserved by <i>SezanX.</i>
+For inquiries or permission requests, contact `sezanx.official@gmail.com.`
 
 ## Notes
 - Use responsibly and comply with WhatsApp's terms of service.
